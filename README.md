@@ -1,6 +1,6 @@
 ## About Me
 - 👋 Hi, I’m @rinrinx28
-- 📫 How to reach me 0337438448 or Email: minhanhpreeip@gmail.com
+- 📫 How to reach me 0337438446 or Email: minhanhpreeip@gmail.com
   
 ## 📊 GitHub Stats
 
