@@ -3,18 +3,15 @@
 - 📫 How to reach me 0337438446 or Email: minhanhpreeip@gmail.com
   
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinrinx28&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinrinx28&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinrinx28&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
-</div>
-
-
-## Profile Views
-<a href="https://visitcount.itsvg.in">
+![status](https://api.statusbadges.me/badge/status/355632903344095233?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/355632903344095233)
+![vscode](https://api.statusbadges.me/badge/vscode/355632903344095233)
+![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/355632903344095233)
+<a href="https://github.com/rinrinx28">
   <img src="https://visitcount.itsvg.in/api?id=rinrinx28&label=Profile%20Views&color=3&icon=2&pretty=false" />
 </a>
+
+Powered by [StatusBadges](https://statusbadges.me/start), creater by Me
 
 <!---
 ListKelvin/ListKelvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
